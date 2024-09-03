@@ -1,4 +1,8 @@
-![Header](./your-header-image-name.png)(https://harsh19-g.io)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harsh19-g/harsh19-g/main/Banner.png" alt="my banner">
+
+</div>
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ed6013619934c223e46ec7309adb883f490c14ad95ec8d062f8ea6f89e67985f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6466676737336476722f696d6167652f75706c6f61642f76313632303036303438372f636f64696e672d667265616b5f63626366306f2e676966">
